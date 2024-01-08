@@ -1,0 +1,8 @@
+.idea
+.vscode
+wiki.en.bin
+saved
+*.pyc
+*egg-info
+trec_eval
+*.log
