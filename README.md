@@ -61,3 +61,16 @@ Model checkpoints and logs will be saved to `saved/model_*.pt` and `saved/result
 
 
 Detailed parameter information used in `configs/*.json`.
+
+
+## Citation
+
+```bibtex
+@inproceedings{liu2023enhancing,
+  title={Enhancing Table Retrieval with Dual Graph Representations},
+  author={Liu, Tianyun and Zhang, Xinghua and Zhang, Zhenyu and Wang, Yubin and Li, Quangang and Zhang, Shuai and Liu, Tingwen},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={107--123},
+  year={2023}
+}
+```
